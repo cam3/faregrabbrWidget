@@ -1,4 +1,13 @@
-	<!-- Nav tabs -->
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://evotravelagent.com/assets/application-debb03a2cb3afb2e43c0eb0df3536024ffc3ef960306bad9fb5a0d65f5e42726.css" />
+</head>
+<body>
+
+<!-- Nav tabs -->
 	<ul id="myTabs" class="nav nav-tabs" role="tablist">
 		<li class="myTabs" role="presentation">
 			<a class="active" href="#flights" aria-controls="flights" role="tab" data-toggle="tab">Flights</a>
@@ -198,3 +207,6 @@
 		</div>
 	</div>
 	<!-- /.container -->
+
+</body>
+</html>
