@@ -1,4 +1,4 @@
 # Faregrabbr Widget
 # Subdomain interchangeable
 
-https://archertravel.faregrabbr.com/widget
+https://evov2.faregrabbr.com/widget
