@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-<meta name="turbolinks-cache-control" content="no-cache">
-<link rel="shortcut icon" type="image/x-icon" href="https://evotravelagent.com/assets/evo_logo_tiny-de19a36259d25c1a7461c74de02d9350e016420d87c50a9bbbd2aba50a21bd0f.png" />
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- Latest compiled and minified JavaScript -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="google-site-verification" content="slydJrQhmByYr3OKdAQQb2H_hl8EKjxJ-qc4oFDRBJo" />
-<!-- font awesome -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-<link rel="stylesheet" media="all" href="/assets/application-debb03a2cb3afb2e43c0eb0df3536024ffc3ef960306bad9fb5a0d65f5e42726.css" data-turbolinks-track="reload" />
-<script src="/assets/application-fbb2e4dc4ffa98a8714cc83a9c35a5578ba39926da7c1783d27297e1861c0687.js" data-turbolinks-track="reload"></script>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.18/js/bootstrap-select.min.js" integrity="sha512-yDlE7vpGDP7o2eftkCiPZ+yuUyEcaBwoJoIhdXv71KZWugFqEphIS3PU60lEkFaz8RxaVsMpSvQxMBaKVwA5xg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit" async defer></script>
-</head>
-<body>
-
 	<!-- Nav tabs -->
 	<ul id="myTabs" class="nav nav-tabs" role="tablist">
 		<li class="myTabs" role="presentation">
@@ -227,7 +198,3 @@
 		</div>
 	</div>
 	<!-- /.container -->
-
-</body>
-
-</html>
