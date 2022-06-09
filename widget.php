@@ -207,5 +207,8 @@
 		</div>
 	</div>
 	<!-- /.container -->
+
+	<script src="confirmModal.js"></script>
+
 </body>
 </html>
