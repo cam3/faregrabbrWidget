@@ -1,4 +1,4 @@
 # Customizable Faregrabbr Widget (Front-End Only)
-# Subdomain interchangeable for each site
+# Calls Back-End Data From Subdomain (Interchangeable)
 
 e.g. https://evov2.faregrabbr.com/widget
