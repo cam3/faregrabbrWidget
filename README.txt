@@ -1,4 +1,4 @@
-# Faregrabbr Widget
-# Subdomain interchangeable
+# Customizable Faregrabbr Widget (Front-End Only)
+# Subdomain interchangeable for each site
 
-https://evov2.faregrabbr.com/widget
+e.g. https://evov2.faregrabbr.com/widget
